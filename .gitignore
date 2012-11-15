@@ -1,7 +1,7 @@
 Exam\ Prep/*
-*.tar
-*.tgz
-
+TUT5/*
+a1.tar
+tomcat6.tgz
 tomcat6/*
 
 A1/webapp/css/themes/*
