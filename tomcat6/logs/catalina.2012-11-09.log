@@ -1,6 +1,0 @@
-9-Nov-2012 6:04:27 PM org.apache.coyote.http11.Http11Protocol pause
-INFO: Pausing Coyote HTTP/1.1 on http-41151
-9-Nov-2012 6:04:28 PM org.apache.catalina.core.StandardService stop
-INFO: Stopping service Catalina
-9-Nov-2012 6:04:28 PM org.apache.coyote.http11.Http11Protocol destroy
-INFO: Stopping Coyote HTTP/1.1 on http-41151
